@@ -1,0 +1,69 @@
+about:
+  description: 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+  license: NOASSERTION
+  homepage: https://lobehub.com
+  head: 25a7c3f
+  archived: false
+  latestVersion: v2.2.16-canary.16
+  collectedAt: 2026-09-01T05:45:07Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-31
+popularity:
+  star: 82127
+  watcher: 309
+  fork: 15841
+  release: 3060
+  contributor: 361
+  pullRequest: 2649
+  issue: 6449
+language:
+  TypeScript: 72978911
+  HTML: 241121
+  Shell: 234471
+  JavaScript: 226522
+  PLpgSQL: 103120
+  Gherkin: 33639
+  Dockerfile: 12593
+  MDX: 11685
+  Objective-C++: 11075
+  Jupyter Notebook: 6314
+  Roff: 4059
+  TeX: 1797
+  CSS: 1498
+  Python: 760
+totalLine: 73867565
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
