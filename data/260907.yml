@@ -1,0 +1,222 @@
+about:
+  description: "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
+  license: NOASSERTION
+  homepage: https://lobehub.com
+  head: 6da114a
+  archived: false
+  latestVersion: "v2.2.17-canary.7"
+  collectedAt: 2026-09-07T05:05:09Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
+popularity:
+  star: 82278
+  watcher: 310
+  fork: 15860
+  release: 3064
+  contributor: 361
+  pullRequest: 11055
+  issue: 6469
+language:
+  TypeScript: 75938035
+  JavaScript: 277659
+  Shell: 248708
+  HTML: 241121
+  PLpgSQL: 103120
+  Gherkin: 33839
+  Dockerfile: 14131
+  MDX: 11685
+  Objective-C++: 11075
+  Jupyter Notebook: 6314
+  Roff: 4059
+  TeX: 1797
+  CSS: 1498
+  Python: 760
+totalBytes: 76893801
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 3064
+  mergedPR: 8367
+  openPR: 551
+  closedIssue: 6131
+  openIssue: 338
+  commit: 13534
+---
+path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
+collectedAt: 2026-09-07T05:06:46Z
+loc:
+  Json:
+    code: 2715468
+    comments: 0
+    blanks: 0
+    files: 1418
+  TypeScript:
+    code: 1436197
+    comments: 164624
+    blanks: 216827
+    files: 9560
+  Tsx:
+    code: 353374
+    comments: 18078
+    blanks: 42469
+    files: 3595
+  Yaml:
+    code: 16967
+    comments: 1998
+    blanks: 907
+    files: 18
+  Sql:
+    code: 5975
+    comments: 607
+    blanks: 120
+    files: 161
+  JavaScript:
+    code: 4316
+    comments: 424
+    blanks: 600
+    files: 50
+  Html:
+    code: 3251
+    comments: 17
+    blanks: 216
+    files: 15
+  Sh:
+    code: 1235
+    comments: 200
+    blanks: 149
+    files: 8
+  Gherkin:
+    code: 721
+    comments: 84
+    blanks: 136
+    files: 17
+  Dockerfile:
+    code: 231
+    comments: 105
+    blanks: 42
+    files: 2
+  ObjectiveCpp:
+    code: 218
+    comments: 0
+    blanks: 29
+    files: 1
+  Tex:
+    code: 70
+    comments: 0
+    blanks: 42
+    files: 1
+  Css:
+    code: 64
+    comments: 0
+    blanks: 16
+    files: 1
+  Toml:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Jupyter:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 4
+  Markdown:
+    code: 0
+    comments: 38608
+    blanks: 28113
+    files: 92
+  Text:
+    code: 0
+    comments: 835
+    blanks: 140
+    files: 7
+total:
+  code: 4542595
+  comments: 225978
+  blanks: 290172
+  files: 14951
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:07:00+00:00
+  platform:
+    darwin/arm64:
+      name:  LobeHub-2.2.16-arm64-mac.zip
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/LobeHub-2.2.16-arm64-mac.zip
+      size:  147729759
+      score: 20
+    darwin/amd64:
+      name:  latest-mac-x64.yml
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-mac-x64.yml
+      size:  9548
+      score: 17
+    linux/arm64:
+      name:  latest-linux.yml
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-linux.yml
+      size:  10097
+      score: 22
+    linux/amd64:
+      name:  latest-linux.yml
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-linux.yml
+      size:  10097
+      score: 22
+    win/arm64:
+      name:  LobeHub-2.2.16-arm64-mac.zip
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/LobeHub-2.2.16-arm64-mac.zip
+      size:  147729759
+      score: 20
+    win/amd64:
+      name:  latest-mac-x64.yml
+      url:   https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-mac-x64.yml
+      size:  9548
+      score: 17
