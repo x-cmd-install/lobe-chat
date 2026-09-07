@@ -2,25 +2,25 @@ about:
   description: "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
   license: NOASSERTION
   homepage: https://lobehub.com
-  head: 6da114a
+  head: 64842e3
   archived: false
-  latestVersion: "v2.2.17-canary.7"
-  collectedAt: 2026-09-07T05:05:09Z
+  latestVersion: "v2.2.17-canary.10"
+  collectedAt: 2026-09-07T19:18:07Z
 timeline:
   created: 2023-05-21
   lastCommit: 2026-09-07
   lastRelease: 2026-09-07
 popularity:
-  star: 82278
-  watcher: 310
-  fork: 15860
+  star: 82296
+  watcher: 311
+  fork: 15862
   release: 3064
   contributor: 361
-  pullRequest: 11055
-  issue: 6469
+  pullRequest: 11082
+  issue: 6476
 language:
-  TypeScript: 75938035
-  JavaScript: 277659
+  TypeScript: 76127222
+  JavaScript: 293509
   Shell: 248708
   HTML: 241121
   PLpgSQL: 103120
@@ -33,7 +33,7 @@ language:
   TeX: 1797
   CSS: 1498
   Python: 760
-totalBytes: 76893801
+totalBytes: 77098838
 recent:
   last30d:
     since: 2026-08-08
@@ -85,45 +85,45 @@ recent:
     commit: 0
 total:
   release: 3064
-  mergedPR: 8367
-  openPR: 551
-  closedIssue: 6131
-  openIssue: 338
-  commit: 13534
+  mergedPR: 8388
+  openPR: 555
+  closedIssue: 6135
+  openIssue: 341
+  commit: 13555
 ---
 path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
-collectedAt: 2026-09-07T05:06:46Z
+collectedAt: 2026-09-07T19:19:17Z
 loc:
   Json:
-    code: 2715468
+    code: 2751015
     comments: 0
     blanks: 0
-    files: 1418
+    files: 1419
   TypeScript:
-    code: 1436197
-    comments: 164624
-    blanks: 216827
-    files: 9560
+    code: 1439707
+    comments: 164750
+    blanks: 217278
+    files: 9586
   Tsx:
-    code: 353374
-    comments: 18078
-    blanks: 42469
-    files: 3595
+    code: 354319
+    comments: 18000
+    blanks: 42509
+    files: 3598
   Yaml:
     code: 16967
     comments: 1998
     blanks: 907
     files: 18
   Sql:
-    code: 5975
-    comments: 607
+    code: 6001
+    comments: 608
     blanks: 120
-    files: 161
+    files: 162
   JavaScript:
-    code: 4316
+    code: 4717
     comments: 424
-    blanks: 600
-    files: 50
+    blanks: 624
+    files: 52
   Html:
     code: 3251
     comments: 17
@@ -171,24 +171,24 @@ loc:
     files: 4
   Markdown:
     code: 0
-    comments: 38608
-    blanks: 28113
-    files: 92
+    comments: 38679
+    blanks: 28131
+    files: 93
   Text:
     code: 0
     comments: 835
     blanks: 140
     files: 7
 total:
-  code: 4542595
-  comments: 225978
-  blanks: 290172
-  files: 14951
+  code: 4583023
+  comments: 226098
+  blanks: 290705
+  files: 14985
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:07:00+00:00
+  collectedAt: 2026-09-07T19:19:22+00:00
   platform:
     darwin/arm64:
       name:  LobeHub-2.2.16-arm64-mac.zip
