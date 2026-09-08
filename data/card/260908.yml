@@ -2,24 +2,24 @@ about:
   description: "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
   license: NOASSERTION
   homepage: https://lobehub.com
-  head: f648b9a
+  head: a82904c
   archived: false
   latestVersion: "v2.2.17-canary.10"
-  collectedAt: 2026-09-08T02:21:45Z
+  collectedAt: 2026-09-08T05:10:08Z
 timeline:
   created: 2023-05-21
   lastCommit: 2026-09-08
   lastRelease: 2026-09-07
 popularity:
-  star: 82300
+  star: 82304
   watcher: 311
-  fork: 15863
+  fork: 15861
   release: 3064
   contributor: 361
-  pullRequest: 11083
+  pullRequest: 11088
   issue: 6477
 language:
-  TypeScript: 76169408
+  TypeScript: 76222566
   JavaScript: 293509
   Shell: 248708
   HTML: 241121
@@ -33,7 +33,7 @@ language:
   TeX: 1797
   CSS: 1498
   Python: 760
-totalBytes: 77141024
+totalBytes: 77194182
 recent:
   last30d:
     since: 2026-08-09
@@ -85,14 +85,14 @@ recent:
     commit: 0
 total:
   release: 3064
-  mergedPR: 8389
+  mergedPR: 8394
   openPR: 555
   closedIssue: 6135
   openIssue: 342
-  commit: 13556
+  commit: 13561
 ---
 path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
-collectedAt: 2026-09-08T02:23:12Z
+collectedAt: 2026-09-08T05:11:29Z
 loc:
   Json:
     code: 2751049
@@ -100,14 +100,14 @@ loc:
     blanks: 0
     files: 1419
   TypeScript:
-    code: 1440235
-    comments: 164760
-    blanks: 217318
-    files: 9594
+    code: 1441370
+    comments: 164824
+    blanks: 217444
+    files: 9606
   Tsx:
-    code: 355008
-    comments: 17987
-    blanks: 42516
+    code: 354943
+    comments: 17984
+    blanks: 42511
     files: 3600
   Yaml:
     code: 16967
@@ -180,10 +180,10 @@ loc:
     blanks: 140
     files: 7
 total:
-  code: 4584274
-  comments: 226095
-  blanks: 290752
-  files: 14995
+  code: 4585344
+  comments: 226156
+  blanks: 290873
+  files: 15007
 ---
 
 ---
