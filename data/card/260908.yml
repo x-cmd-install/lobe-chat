@@ -1,0 +1,196 @@
+about:
+  description: "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
+  license: NOASSERTION
+  homepage: https://lobehub.com
+  head: f648b9a
+  archived: false
+  latestVersion: "v2.2.17-canary.10"
+  collectedAt: 2026-09-08T02:21:45Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-09-08
+  lastRelease: 2026-09-07
+popularity:
+  star: 82300
+  watcher: 311
+  fork: 15863
+  release: 3064
+  contributor: 361
+  pullRequest: 11083
+  issue: 6477
+language:
+  TypeScript: 76169408
+  JavaScript: 293509
+  Shell: 248708
+  HTML: 241121
+  PLpgSQL: 103120
+  Gherkin: 33839
+  Dockerfile: 14131
+  MDX: 11685
+  Objective-C++: 11075
+  Jupyter Notebook: 6314
+  Roff: 4059
+  TeX: 1797
+  CSS: 1498
+  Python: 760
+totalBytes: 77141024
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-10
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-10
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-12
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-13
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-18
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 3064
+  mergedPR: 8389
+  openPR: 555
+  closedIssue: 6135
+  openIssue: 342
+  commit: 13556
+---
+path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
+collectedAt: 2026-09-08T02:23:12Z
+loc:
+  Json:
+    code: 2751049
+    comments: 0
+    blanks: 0
+    files: 1419
+  TypeScript:
+    code: 1440235
+    comments: 164760
+    blanks: 217318
+    files: 9594
+  Tsx:
+    code: 355008
+    comments: 17987
+    blanks: 42516
+    files: 3600
+  Yaml:
+    code: 16967
+    comments: 1998
+    blanks: 907
+    files: 18
+  Sql:
+    code: 6001
+    comments: 608
+    blanks: 120
+    files: 162
+  JavaScript:
+    code: 4717
+    comments: 424
+    blanks: 624
+    files: 52
+  Html:
+    code: 3251
+    comments: 17
+    blanks: 216
+    files: 15
+  Sh:
+    code: 1235
+    comments: 200
+    blanks: 149
+    files: 8
+  Gherkin:
+    code: 721
+    comments: 84
+    blanks: 136
+    files: 17
+  Dockerfile:
+    code: 231
+    comments: 105
+    blanks: 42
+    files: 2
+  ObjectiveCpp:
+    code: 218
+    comments: 0
+    blanks: 29
+    files: 1
+  Tex:
+    code: 70
+    comments: 0
+    blanks: 42
+    files: 1
+  Css:
+    code: 64
+    comments: 0
+    blanks: 16
+    files: 1
+  Toml:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Jupyter:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 4
+  Markdown:
+    code: 0
+    comments: 38679
+    blanks: 28131
+    files: 93
+  Text:
+    code: 0
+    comments: 835
+    blanks: 140
+    files: 7
+total:
+  code: 4584274
+  comments: 226095
+  blanks: 290752
+  files: 14995
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	LobeHub-2.2.16-arm64-mac.zip	https://github.com/lobehub/lobehub/releases/download/v2.2.16/LobeHub-2.2.16-arm64-mac.zip	147729759	20
+darwin/amd64	latest-mac-x64.yml	https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-mac-x64.yml	9548	17
+linux/arm64	latest-linux.yml	https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-linux.yml	10097	22
+linux/amd64	latest-linux.yml	https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-linux.yml	10097	22
+win/arm64	LobeHub-2.2.16-arm64-mac.zip	https://github.com/lobehub/lobehub/releases/download/v2.2.16/LobeHub-2.2.16-arm64-mac.zip	147729759	20
+win/amd64	latest-mac-x64.yml	https://github.com/lobehub/lobehub/releases/download/v2.2.16/latest-mac-x64.yml	9548	17
