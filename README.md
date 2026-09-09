@@ -4,10 +4,10 @@
 
 - **Upstream**: <https://github.com/lobehub/lobe-chat>
 - **Homepage**: <https://lobehub.com>
-- **Latest release**: `v2.2.17-canary.15` (2026-09-04)
+- **Latest release**: `v2.2.17-canary.18` (2026-09-04)
 - **Last commit**: 2026-09-09
 - **License**: NOASSERTION
-- **Stars**: 82336 · **Forks**: 15865 · **Open issues**: 6480 · **Contributors**: 361
+- **Stars**: 82357 · **Forks**: 15863 · **Open issues**: 6482 · **Contributors**: 361
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/lobe-chat> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:12:29Z._
+_Last regenerated: 2026-09-09T19:30:56Z._
