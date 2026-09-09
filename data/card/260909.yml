@@ -1,0 +1,193 @@
+about:
+  description: "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team."
+  license: NOASSERTION
+  homepage: https://lobehub.com
+  head: 065cc13
+  archived: false
+  latestVersion: "v2.2.17-canary.15"
+  latestRelease: "v2.2.16"
+  latestPrerelease: "v2.2.17-canary.15"
+  collectedAt: 2026-09-09T05:10:53Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-04
+  lastPrerelease: 2026-09-08
+popularity:
+  star: 82336
+  watcher: 310
+  fork: 15865
+  release: 3065
+  contributor: 361
+  pullRequest: 11132
+  issue: 6480
+language:
+  TypeScript: 77397264
+  JavaScript: 298070
+  Shell: 248708
+  HTML: 241121
+  PLpgSQL: 103120
+  Gherkin: 34523
+  Dockerfile: 14131
+  MDX: 11685
+  Objective-C++: 11552
+  Jupyter Notebook: 6314
+  Roff: 4059
+  TeX: 1797
+  CSS: 1498
+  Python: 760
+totalBytes: 78374602
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-11
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-11
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-13
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-14
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-19
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 3065
+  mergedPR: 8432
+  openPR: 558
+  closedIssue: 6136
+  openIssue: 344
+  commit: 13599
+---
+path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
+collectedAt: 2026-09-09T05:12:12Z
+loc:
+  Json:
+    code: 2788794
+    comments: 0
+    blanks: 0
+    files: 1422
+  TypeScript:
+    code: 1464953
+    comments: 166538
+    blanks: 219733
+    files: 9746
+  Tsx:
+    code: 358574
+    comments: 18144
+    blanks: 42714
+    files: 3634
+  Yaml:
+    code: 16970
+    comments: 1998
+    blanks: 907
+    files: 18
+  Sql:
+    code: 6056
+    comments: 619
+    blanks: 120
+    files: 163
+  JavaScript:
+    code: 4802
+    comments: 438
+    blanks: 628
+    files: 52
+  Html:
+    code: 3251
+    comments: 17
+    blanks: 216
+    files: 15
+  Sh:
+    code: 1235
+    comments: 200
+    blanks: 149
+    files: 8
+  Gherkin:
+    code: 729
+    comments: 87
+    blanks: 137
+    files: 17
+  Dockerfile:
+    code: 231
+    comments: 105
+    blanks: 42
+    files: 2
+  ObjectiveCpp:
+    code: 229
+    comments: 0
+    blanks: 29
+    files: 1
+  Tex:
+    code: 70
+    comments: 0
+    blanks: 42
+    files: 1
+  Css:
+    code: 64
+    comments: 0
+    blanks: 16
+    files: 1
+  Toml:
+    code: 7
+    comments: 0
+    blanks: 2
+    files: 1
+  Jupyter:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 4
+  Markdown:
+    code: 0
+    comments: 39071
+    blanks: 28209
+    files: 98
+  Text:
+    code: 0
+    comments: 835
+    blanks: 140
+    files: 7
+total:
+  code: 4650478
+  comments: 228450
+  blanks: 293448
+  files: 15190
+---
+
+---
