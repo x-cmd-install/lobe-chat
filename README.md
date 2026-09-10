@@ -38,7 +38,7 @@ Total: **4,727,569** lines of code across **15120** files in the top 5 languages
 
 ## Popularity
 
-- **Stars**: 82,380 · **Forks**: 15,869 · **Open issues**: 6,488 · **Contributors**: 361
+- **Stars**: 82,380 · **Forks**: 15,870 · **Open issues**: 6,488 · **Contributors**: 361
 
 ## Totals (cumulative)
 
@@ -89,4 +89,4 @@ Install metadata for lobe-chat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:48:04Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:08:16Z._
