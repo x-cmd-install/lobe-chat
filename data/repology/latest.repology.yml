@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: lobe-chat
+  binname: lobe-chat
+  visiblename: lobe-chat
+  version: 1.143.2
+  origversion: 1.143.2-1
+  status: unique
+  summary: An open-source, modern-design LLMs/AI chat framework
+  maintainers:
+    - envolution@aur
+  licenses:
+    - Apache-2.0 WITH lobe-chat-exception
+- repo: aur
+  srcname: lobe-chat-appimage
+  binname: lobe-chat-appimage
+  visiblename: lobe-chat-appimage
+  version: 1.142.8
+  origversion: 1.142.8-1
+  status: outdated
+  summary: An open-source, modern-design LLMs/AI chat framework (AppImage)
+  maintainers:
+    - wjsoj@aur
+  licenses:
+    - Apache-2.0
