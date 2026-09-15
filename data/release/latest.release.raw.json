@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15303,
       "digest": "sha256:fc155963e6304f87d01921515e3b200dce08b12267860a91a26e9db5e19805ed",
-      "download_count": 13,
+      "download_count": 15,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/latest-linux.yml"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14772,
       "digest": "sha256:4a7be24cb1d0d6b3e69d16a43fc4dd28899141498fb97a0d4882f59c78b0b91c",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/latest-mac-arm64.yml"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14754,
       "digest": "sha256:901ca94e36dfc286d4b959e4287915ddf0e7a5049c18b474293bdc2e772510d2",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/latest-mac-x64.yml"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 15382,
       "digest": "sha256:327429bedee551fc98bef27d7a6c7d36d6f17f57c87253c7a89027fbfbaa7424",
-      "download_count": 466,
+      "download_count": 631,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/latest-mac.yml"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14299,
       "digest": "sha256:4155e66ad7919a719164581b69baeab36f118e928d5be6fa669ca7365b46c849",
-      "download_count": 918,
+      "download_count": 1336,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/latest.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 159635339,
       "digest": "sha256:64725d9574aafccc6f7e86a8fe77ab4bfabdaa94cf6ebe83ec8716feb88333a1",
-      "download_count": 147,
+      "download_count": 177,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:29Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-arm64-mac.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 167553,
       "digest": "sha256:1f93cc28126a3897de721afc1018339db639f0a894cf34ace5666a8c6a7ab492",
-      "download_count": 27,
+      "download_count": 31,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-arm64-mac.zip.blockmap"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 150806912,
       "digest": "sha256:5760f21338e521403bfa1d8d8a7e90ded4173fb83cb73275c66ea6cf8a543082",
-      "download_count": 20,
+      "download_count": 31,
       "created_at": "2026-09-11T10:03:23Z",
       "updated_at": "2026-09-11T10:03:29Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-arm64.dmg"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 172741,
       "digest": "sha256:66287c69b6b7723be50a8ae14b1b95ec9bfab24e7b4ab9ec5831114b04ce0c0c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-mac.zip.blockmap"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 141119444,
       "digest": "sha256:f7226ef1c206b143bb7ba50174f13249082c0963be1235eaf8235b4aa3f6e80f",
-      "download_count": 384,
+      "download_count": 482,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:28Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-setup.exe"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 150211,
       "digest": "sha256:1528284ec6dfe938cd5aefe41382d32468f14ebf54a3ea0fb5d04372b0e3b5ae",
-      "download_count": 49,
+      "download_count": 56,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:24Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-setup.exe.blockmap"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 153871668,
       "digest": "sha256:09e46494e7dd69ca8dd90c7544b6fcfd0f144ad1133d99925f5187a477f057fc",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:29Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17-x64.dmg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 168064412,
       "digest": "sha256:6d6fa54d4c010baae69e513518b3a3d784513f57c915df485002e698468c08ea",
-      "download_count": 18,
+      "download_count": 22,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:29Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/LobeHub-2.2.17.AppImage"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 159176868,
       "digest": "sha256:99f36cc7d81d373761bf32daf9f3238095b8e10b70ac3c3aeb28729ed0f8ab27",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:28Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/lobehub-desktop-2.2.17.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 116001017,
       "digest": "sha256:361a99ff33e2de2d921bab9d6240abe8904e71930c6c9ff2c794c30a0992a063",
-      "download_count": 44,
+      "download_count": 55,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:28Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/lobehub-desktop-2.2.17.x86_64.rpm"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 131277388,
       "digest": "sha256:6517c873e6743e08b53503f1b4cd750e8c1ca43aa727e7c39dc34869e75010ff",
-      "download_count": 53,
+      "download_count": 59,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:29Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/lobehub-desktop_2.2.17_amd64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 143962112,
       "digest": "sha256:9358ba69e5c1969049a2bde5060bf8482850842f20e86af5fbb662102846eed1",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T10:03:24Z",
       "updated_at": "2026-09-11T10:03:28Z",
       "browser_download_url": "https://github.com/lobehub/lobehub/releases/download/v2.2.17/lobehub-desktop_2.2.17_amd64.snap"
