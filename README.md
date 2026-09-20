@@ -4,7 +4,7 @@
 
 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 
-![lobe-chat](https://repo.x-cmd.io/lobe-chat.svg)
+[![x-cmd/install — lobe-chat Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lobe-chat.svg)](https://x-cmd.com/install/lobe-chat)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install lobe-chat
 
 ## Code insight
 
-Total: **4,938,107** lines of code across **15279** files in the top 5 languages.
+Total: **4,994,113** lines of code across **15375** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 2,983,012 | 0 | 0 | 1431 |
-| TypeScript | 1,531,513 | 175,212 | 227,384 | 10109 |
-| Tsx | 363,061 | 18,606 | 43,080 | 3660 |
+| Json | 3,020,711 | 0 | 0 | 1433 |
+| TypeScript | 1,546,950 | 177,446 | 229,195 | 10197 |
+| Tsx | 365,928 | 19,061 | 43,272 | 3666 |
 | Yaml | 42,067 | 2,031 | 2,329 | 20 |
 | JavaScript | 6,366 | 484 | 682 | 59 |
 
@@ -33,27 +33,27 @@ Total: **4,938,107** lines of code across **15279** files in the top 5 languages
 ## Release
 
 - **Latest**: `v2.2.18-canary.18` (2026-09-11)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-20
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 82,575 · **Forks**: 15,896 · **Open issues**: 6,497 · **Contributors**: 362
+- **Stars**: 82,666 · **Forks**: 15,901 · **Open issues**: 6,497 · **Contributors**: 361
 
 ## Totals (cumulative)
 
-- **Releases**: 3073 · **Merged PRs**: 8389 · **Open PRs**: 558 · **Closed issues**: 6135 · **Open issues**: 362 · **Commits**: 13816
+- **Releases**: 3073 · **Merged PRs**: 8432 · **Open PRs**: 564 · **Closed issues**: 6137 · **Open issues**: 360 · **Commits**: 13865
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 80 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 69 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for lobe-chat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:41:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:28:05Z._
