@@ -14,13 +14,13 @@ x install lobe-chat
 
 ## Code insight
 
-Total: **5,106,664** lines of code across **15571** files in the top 5 languages.
+Total: **5,159,709** lines of code across **15646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 3,101,495 | 0 | 0 | 1440 |
-| TypeScript | 1,575,585 | 181,415 | 232,891 | 10366 |
-| Tsx | 368,723 | 19,432 | 43,626 | 3686 |
+| Json | 3,139,872 | 0 | 0 | 1441 |
+| TypeScript | 1,588,763 | 183,195 | 234,318 | 10426 |
+| Tsx | 370,178 | 19,523 | 43,748 | 3700 |
 | Yaml | 42,066 | 2,031 | 2,328 | 20 |
 | JavaScript | 6,417 | 488 | 687 | 59 |
 
@@ -32,28 +32,28 @@ Total: **5,106,664** lines of code across **15571** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v0.0.0-nightly.pr19776.31562` (2026-09-20)
-- **Last commit**: 2026-09-23
+- **Latest**: `v2.2.19-canary.15` (2026-09-20)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 82,770 · **Forks**: 15,911 · **Open issues**: 6,508 · **Contributors**: 362
+- **Stars**: 82,795 · **Forks**: 15,918 · **Open issues**: 6,513 · **Contributors**: 362
 
 ## Totals (cumulative)
 
-- **Releases**: 3084 · **Merged PRs**: 8529 · **Open PRs**: 601 · **Closed issues**: 6142 · **Open issues**: 366 · **Commits**: 13961
+- **Releases**: 3084 · **Merged PRs**: 8563 · **Open PRs**: 598 · **Closed issues**: 6144 · **Open issues**: 369 · **Commits**: 13994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 66 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-25 | 59 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for lobe-chat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:30:34Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:19:43Z._
