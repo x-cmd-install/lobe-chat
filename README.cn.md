@@ -14,14 +14,14 @@ x install lobe-chat
 
 ## 代码洞察
 
-合计: **5,560,981** 行代码（覆盖前 5 种语言、共 **16793** 个文件）。
+合计: **5,566,119** 行代码（覆盖前 5 种语言、共 **16833** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 3,383,199 | 0 | 0 | 1488 |
-| TypeScript | 1,714,945 | 205,374 | 251,308 | 11306 |
-| Tsx | 395,846 | 22,641 | 46,285 | 3892 |
-| Yaml | 44,365 | 2,031 | 2,217 | 20 |
+| Json | 3,383,262 | 0 | 0 | 1488 |
+| TypeScript | 1,719,498 | 206,040 | 251,891 | 11335 |
+| Tsx | 396,321 | 22,752 | 46,364 | 3903 |
+| Yaml | 44,372 | 2,031 | 2,218 | 20 |
 | JavaScript | 9,172 | 516 | 1,042 | 87 |
 
 ## 源代码
@@ -32,53 +32,53 @@ x install lobe-chat
 
 ## 发布
 
-- **最新版本**: `v0.0.0-nightly.pr20476.33374` (2026-09-20)
-- **最近提交**: 2026-10-07
+- **最新版本**: `v0.0.0-nightly.pr20447.33494` (2026-10-07)
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 20 个
 
 ## 流行度
 
-- **Star**: 83,023 · **Fork**: 15,959 · **开放 issue**: 6,547 · **贡献者**: 363
+- **Star**: 83,047 · **Fork**: 15,958 · **开放 issue**: 6,549 · **贡献者**: 363
 
 ## 累计统计
 
-- **发布数**: 3105 · **已合并 PR**: 8975 · **开放 PR**: 641 · **已关闭 issue**: 6164 · **开放 issue**: 383 · **提交数**: 14405
+- **发布数**: 3112 · **已合并 PR**: 8998 · **开放 PR**: 661 · **已关闭 issue**: 6165 · **开放 issue**: 384 · **提交数**: 14432
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 48 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 55 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/latest-linux.yml) | 13.8 KiB | `other` |
-| [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/latest-mac-arm64.yml) | 13.2 KiB | `other` |
-| [latest-mac-x64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/latest-mac-x64.yml) | 13.2 KiB | `other` |
-| [latest-mac.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/latest-mac.yml) | 13.8 KiB | `other` |
-| [latest.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/latest.yml) | 12.8 KiB | `other` |
-| [LobeHub-2.2.18-arm64-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-arm64-mac.zip) | 152.6 MiB | `other` |
-| [LobeHub-2.2.18-arm64-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-arm64-mac.zip.blockmap) | 163.5 KiB | `other` |
-| [LobeHub-2.2.18-arm64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-arm64.dmg) | 144.0 MiB | `other` |
-| [LobeHub-2.2.18-arm64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-arm64.dmg.blockmap) | 155.6 KiB | `other` |
-| [LobeHub-2.2.18-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-mac.zip) | 156.5 MiB | `other` |
-| [LobeHub-2.2.18-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-mac.zip.blockmap) | 168.7 KiB | `other` |
-| [LobeHub-2.2.18-setup.exe](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-setup.exe) | 132.8 MiB | `other` |
-| [LobeHub-2.2.18-setup.exe.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-setup.exe.blockmap) | 144.6 KiB | `other` |
-| [LobeHub-2.2.18-x64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-x64.dmg) | 147.1 MiB | `other` |
-| [LobeHub-2.2.18-x64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18-x64.dmg.blockmap) | 157.9 KiB | `other` |
-| [LobeHub-2.2.18.AppImage](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/LobeHub-2.2.18.AppImage) | 160.7 MiB | `other` |
-| [lobehub-desktop-2.2.18.tar.gz](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/lobehub-desktop-2.2.18.tar.gz) | 152.2 MiB | `native/unknown` |
-| [lobehub-desktop-2.2.18.x86_64.rpm](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/lobehub-desktop-2.2.18.x86_64.rpm) | 110.9 MiB | `runtime/rpm/x86_64` |
-| [lobehub-desktop_2.2.18_amd64.deb](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/lobehub-desktop_2.2.18_amd64.deb) | 125.5 MiB | `runtime/deb/amd64` |
-| [lobehub-desktop_2.2.18_amd64.snap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.18/lobehub-desktop_2.2.18_amd64.snap) | 137.6 MiB | `other` |
+| [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/latest-linux.yml) | 1.3 KiB | `other` |
+| [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/latest-mac-arm64.yml) | 819 B | `other` |
+| [latest-mac-x64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/latest-mac-x64.yml) | 801 B | `other` |
+| [latest-mac.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/latest-mac.yml) | 1.4 KiB | `other` |
+| [latest.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/latest.yml) | 346 B | `other` |
+| [LobeHub-2.2.19-arm64-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-arm64-mac.zip) | 162.0 MiB | `other` |
+| [LobeHub-2.2.19-arm64-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-arm64-mac.zip.blockmap) | 173.8 KiB | `other` |
+| [LobeHub-2.2.19-arm64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-arm64.dmg) | 153.5 MiB | `other` |
+| [LobeHub-2.2.19-arm64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-arm64.dmg.blockmap) | 164.7 KiB | `other` |
+| [LobeHub-2.2.19-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-mac.zip) | 167.9 MiB | `other` |
+| [LobeHub-2.2.19-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-mac.zip.blockmap) | 179.2 KiB | `other` |
+| [LobeHub-2.2.19-setup.exe](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-setup.exe) | 144.3 MiB | `other` |
+| [LobeHub-2.2.19-setup.exe.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-setup.exe.blockmap) | 156.6 KiB | `other` |
+| [LobeHub-2.2.19-x64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-x64.dmg) | 158.4 MiB | `other` |
+| [LobeHub-2.2.19-x64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19-x64.dmg.blockmap) | 171.3 KiB | `other` |
+| [LobeHub-2.2.19.AppImage](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/LobeHub-2.2.19.AppImage) | 167.5 MiB | `other` |
+| [lobehub-desktop-2.2.19.tar.gz](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/lobehub-desktop-2.2.19.tar.gz) | 159.0 MiB | `native/unknown` |
+| [lobehub-desktop-2.2.19.x86_64.rpm](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/lobehub-desktop-2.2.19.x86_64.rpm) | 117.4 MiB | `runtime/rpm/x86_64` |
+| [lobehub-desktop_2.2.19_amd64.deb](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/lobehub-desktop_2.2.19_amd64.deb) | 132.5 MiB | `runtime/deb/amd64` |
+| [lobehub-desktop_2.2.19_amd64.snap](https://github.com/lobehub/lobe-chat/releases/download/v2.2.19/lobehub-desktop_2.2.19_amd64.snap) | 144.3 MiB | `other` |
 
 ## 改进这些数据
 
@@ -89,4 +89,4 @@ lobe-chat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:28:20Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:26:46Z._
