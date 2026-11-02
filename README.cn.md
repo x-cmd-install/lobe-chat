@@ -14,15 +14,15 @@ x install lobe-chat
 
 ## 代码洞察
 
-合计: **3,554,561** 行代码（覆盖前 5 种语言、共 **21119** 个文件）。
+合计: **3,567,469** 行代码（覆盖前 5 种语言、共 **21198** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 2,119,518 | 256,234 | 307,714 | 15149 |
-| Json | 905,264 | 0 | 1 | 1384 |
-| Tsx | 455,927 | 27,628 | 52,648 | 4466 |
-| Yaml | 45,613 | 2,038 | 2,164 | 20 |
-| JavaScript | 11,945 | 658 | 1,202 | 100 |
+| TypeScript | 2,131,356 | 257,455 | 309,290 | 15220 |
+| Json | 905,343 | 0 | 1 | 1384 |
+| Tsx | 457,614 | 27,751 | 52,783 | 4474 |
+| Yaml | 45,694 | 2,038 | 2,171 | 20 |
+| JavaScript | 11,167 | 587 | 1,187 | 100 |
 
 ## 源代码
 
@@ -32,34 +32,55 @@ x install lobe-chat
 
 ## 发布
 
-- **最新版本**: `v0.0.0-nightly.pr21992.37446` (2026-10-29)
-- **最近提交**: 2026-11-01
-- **Release 含资产**: 1 个
+- **最新版本**: `v0.0.0-nightly.pr22067.37667` (2026-11-01)
+- **最近提交**: 2026-11-02
+- **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 83,653 · **Fork**: 16,024 · **开放 issue**: 6,632 · **贡献者**: 368
+- **Star**: 83,692 · **Fork**: 16,029 · **开放 issue**: 6,635 · **贡献者**: 368
 
 ## 累计统计
 
-- **发布数**: 3160 · **已合并 PR**: 10162 · **开放 PR**: 755 · **已关闭 issue**: 6199 · **开放 issue**: 433 · **提交数**: 15590
+- **发布数**: 3164 · **已合并 PR**: 10206 · **开放 PR**: 759 · **已关闭 issue**: 6201 · **开放 issue**: 434 · **提交数**: 15634
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 75 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-02 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-03 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-05 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-06 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-03 | 78 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-04 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-06 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-12 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [desktop-sources.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.2.21/desktop-sources.v1.json) | 313 B | `other` |
+| [desktop-published.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/desktop-published.v1.json) | 492 B | `other` |
+| [desktop-sources.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/desktop-sources.v1.json) | 301 B | `other` |
+| [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/latest-linux.yml) | 10.5 KiB | `other` |
+| [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/latest-mac-arm64.yml) | 10.0 KiB | `other` |
+| [latest-mac-x64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/latest-mac-x64.yml) | 9.9 KiB | `other` |
+| [latest-mac.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/latest-mac.yml) | 10.9 KiB | `other` |
+| [latest.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/latest.yml) | 9.5 KiB | `other` |
+| [LobeHub-2.3.0-arm64-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-arm64-mac.zip) | 167.4 MiB | `other` |
+| [LobeHub-2.3.0-arm64-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-arm64-mac.zip.blockmap) | 177.7 KiB | `other` |
+| [LobeHub-2.3.0-arm64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-arm64.dmg) | 158.6 MiB | `other` |
+| [LobeHub-2.3.0-arm64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-arm64.dmg.blockmap) | 170.3 KiB | `other` |
+| [LobeHub-2.3.0-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-mac.zip) | 173.4 MiB | `other` |
+| [LobeHub-2.3.0-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-mac.zip.blockmap) | 186.0 KiB | `other` |
+| [LobeHub-2.3.0-setup.exe](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-setup.exe) | 147.3 MiB | `other` |
+| [LobeHub-2.3.0-setup.exe.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-setup.exe.blockmap) | 159.6 KiB | `other` |
+| [LobeHub-2.3.0-x64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-x64.dmg) | 163.5 MiB | `other` |
+| [LobeHub-2.3.0-x64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0-x64.dmg.blockmap) | 175.3 KiB | `other` |
+| [LobeHub-2.3.0.AppImage](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/LobeHub-2.3.0.AppImage) | 172.3 MiB | `other` |
+| [lobehub-desktop-2.3.0.tar.gz](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/lobehub-desktop-2.3.0.tar.gz) | 163.6 MiB | `native/unknown` |
+| [lobehub-desktop-2.3.0.x86_64.rpm](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/lobehub-desktop-2.3.0.x86_64.rpm) | 120.0 MiB | `runtime/rpm/x86_64` |
+| [lobehub-desktop_2.3.0_amd64.deb](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/lobehub-desktop_2.3.0_amd64.deb) | 137.1 MiB | `runtime/deb/amd64` |
+| [lobehub-desktop_2.3.0_amd64.snap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.0/lobehub-desktop_2.3.0_amd64.snap) | 148.5 MiB | `other` |
 
 ## 改进这些数据
 
@@ -70,4 +91,4 @@ lobe-chat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261101.yml` · 2026-11-01T06:28:54Z._
+_数据快照: `data/card/261102.yml` · 2026-11-02T06:42:12Z._
