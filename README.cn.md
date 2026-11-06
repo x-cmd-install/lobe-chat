@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 [![x-cmd/install — lobe-chat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lobe-chat.svg?lang=zh)](https://x-cmd.com/install/lobe-chat)
 
@@ -14,15 +14,15 @@ x install lobe-chat
 
 ## 代码洞察
 
-合计: **3,616,545** 行代码（覆盖前 5 种语言、共 **21543** 个文件）。
+合计: **3,644,724** 行代码（覆盖前 5 种语言、共 **21719** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 2,160,035 | 260,951 | 313,459 | 15497 |
-| Json | 917,761 | 0 | 1 | 1384 |
-| Tsx | 465,443 | 28,538 | 53,834 | 4541 |
-| Yaml | 45,700 | 2,038 | 2,171 | 20 |
-| JavaScript | 11,224 | 593 | 1,194 | 101 |
+| TypeScript | 2,180,861 | 263,305 | 316,734 | 15649 |
+| Json | 922,318 | 0 | 1 | 1384 |
+| Tsx | 468,121 | 28,745 | 54,087 | 4565 |
+| Yaml | 45,706 | 2,038 | 2,171 | 20 |
+| JavaScript | 11,239 | 599 | 1,197 | 101 |
 
 ## 源代码
 
@@ -32,28 +32,28 @@ x install lobe-chat
 
 ## 发布
 
-- **最新版本**: `v2.3.2-canary.2` (2026-11-03)
-- **最近提交**: 2026-11-05
+- **最新版本**: `v2.3.2-canary.3` (2026-11-03)
+- **最近提交**: 2026-11-06
 - **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 83,953 · **Fork**: 16,059 · **开放 issue**: 6,645 · **贡献者**: 369
+- **Star**: 84,116 · **Fork**: 16,091 · **开放 issue**: 6,654 · **贡献者**: 370
 
 ## 累计统计
 
-- **发布数**: 3167 · **已合并 PR**: 10338 · **开放 PR**: 786 · **已关闭 issue**: 6204 · **开放 issue**: 441 · **提交数**: 15764
+- **发布数**: 3166 · **已合并 PR**: 10379 · **开放 PR**: 823 · **已关闭 issue**: 6204 · **开放 issue**: 450 · **提交数**: 15805
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 73 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 71 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ lobe-chat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T07:09:07Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T07:11:08Z._

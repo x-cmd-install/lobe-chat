@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.
 
 [![x-cmd/install — lobe-chat Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lobe-chat.svg)](https://x-cmd.com/install/lobe-chat)
 
@@ -14,15 +14,15 @@ x install lobe-chat
 
 ## Code insight
 
-Total: **3,616,545** lines of code across **21543** files in the top 5 languages.
+Total: **3,644,724** lines of code across **21719** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,160,035 | 260,951 | 313,459 | 15497 |
-| Json | 917,761 | 0 | 1 | 1384 |
-| Tsx | 465,443 | 28,538 | 53,834 | 4541 |
-| Yaml | 45,700 | 2,038 | 2,171 | 20 |
-| JavaScript | 11,224 | 593 | 1,194 | 101 |
+| TypeScript | 2,180,861 | 263,305 | 316,734 | 15649 |
+| Json | 922,318 | 0 | 1 | 1384 |
+| Tsx | 468,121 | 28,745 | 54,087 | 4565 |
+| Yaml | 45,706 | 2,038 | 2,171 | 20 |
+| JavaScript | 11,239 | 599 | 1,197 | 101 |
 
 ## Source
 
@@ -32,28 +32,28 @@ Total: **3,616,545** lines of code across **21543** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v2.3.2-canary.2` (2026-11-03)
-- **Last commit**: 2026-11-05
+- **Latest**: `v2.3.2-canary.3` (2026-11-03)
+- **Last commit**: 2026-11-06
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 83,953 · **Forks**: 16,059 · **Open issues**: 6,645 · **Contributors**: 369
+- **Stars**: 84,116 · **Forks**: 16,091 · **Open issues**: 6,654 · **Contributors**: 370
 
 ## Totals (cumulative)
 
-- **Releases**: 3167 · **Merged PRs**: 10338 · **Open PRs**: 786 · **Closed issues**: 6204 · **Open issues**: 441 · **Commits**: 15764
+- **Releases**: 3166 · **Merged PRs**: 10379 · **Open PRs**: 823 · **Closed issues**: 6204 · **Open issues**: 450 · **Commits**: 15805
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 73 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 71 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for lobe-chat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:09:06Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:11:08Z._
