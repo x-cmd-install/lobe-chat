@@ -14,15 +14,15 @@ x install lobe-chat
 
 ## Code insight
 
-Total: **3,955,909** lines of code across **23974** files in the top 5 languages.
+Total: **4,037,641** lines of code across **24413** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 2,396,727 | 286,516 | 345,939 | 17513 |
-| Json | 979,448 | 0 | 1 | 1416 |
-| Tsx | 505,055 | 31,034 | 57,653 | 4924 |
-| Yaml | 46,561 | 2,040 | 2,173 | 20 |
-| JavaScript | 11,297 | 616 | 1,201 | 101 |
+| TypeScript | 2,451,805 | 293,202 | 353,102 | 17887 |
+| Json | 987,343 | 0 | 1 | 1417 |
+| Tsx | 510,341 | 31,484 | 58,322 | 4988 |
+| Yaml | 59,955 | 2,041 | 2,195 | 20 |
+| JavaScript | 11,298 | 618 | 1,201 | 101 |
 
 ## Source
 
@@ -32,55 +32,55 @@ Total: **3,955,909** lines of code across **23974** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `v0.0.0-nightly.pr22948.39972` (2026-11-12)
-- **Last commit**: 2026-11-17
+- **Latest**: `v2.3.5-canary.1` (2026-11-18)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 85,676 · **Forks**: 16,343 · **Open issues**: 6,696 · **Contributors**: 372
+- **Stars**: 85,832 · **Forks**: 16,350 · **Open issues**: 6,704 · **Contributors**: 371
 
 ## Totals (cumulative)
 
-- **Releases**: 3204 · **Merged PRs**: 10990 · **Open PRs**: 911 · **Closed issues**: 6221 · **Open issues**: 475 · **Commits**: 16305
+- **Releases**: 3208 · **Merged PRs**: 11149 · **Open PRs**: 972 · **Closed issues**: 6224 · **Open issues**: 480 · **Commits**: 16469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 60 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 63 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [desktop-published.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/desktop-published.v1.json) | 492 B | `other` |
-| [desktop-sources.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/desktop-sources.v1.json) | 301 B | `other` |
-| [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/latest-linux.yml) | 7.3 KiB | `other` |
-| [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/latest-mac-arm64.yml) | 6.8 KiB | `other` |
-| [latest-mac-x64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/latest-mac-x64.yml) | 6.7 KiB | `other` |
-| [latest-mac.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/latest-mac.yml) | 7.3 KiB | `other` |
-| [latest.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/latest.yml) | 6.3 KiB | `other` |
-| [LobeHub-2.3.3-arm64-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-arm64-mac.zip) | 169.1 MiB | `other` |
-| [LobeHub-2.3.3-arm64-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-arm64-mac.zip.blockmap) | 180.4 KiB | `other` |
-| [LobeHub-2.3.3-arm64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-arm64.dmg) | 160.0 MiB | `other` |
-| [LobeHub-2.3.3-arm64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-arm64.dmg.blockmap) | 171.5 KiB | `other` |
-| [LobeHub-2.3.3-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-mac.zip) | 175.1 MiB | `other` |
-| [LobeHub-2.3.3-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-mac.zip.blockmap) | 187.2 KiB | `other` |
-| [LobeHub-2.3.3-setup.exe](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-setup.exe) | 148.6 MiB | `other` |
-| [LobeHub-2.3.3-setup.exe.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-setup.exe.blockmap) | 161.0 KiB | `other` |
-| [LobeHub-2.3.3-x64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-x64.dmg) | 164.8 MiB | `other` |
-| [LobeHub-2.3.3-x64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3-x64.dmg.blockmap) | 177.2 KiB | `other` |
-| [LobeHub-2.3.3.AppImage](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/LobeHub-2.3.3.AppImage) | 173.8 MiB | `other` |
-| [lobehub-desktop-2.3.3.tar.gz](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/lobehub-desktop-2.3.3.tar.gz) | 165.0 MiB | `native/unknown` |
-| [lobehub-desktop-2.3.3.x86_64.rpm](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/lobehub-desktop-2.3.3.x86_64.rpm) | 120.9 MiB | `runtime/rpm/x86_64` |
-| [lobehub-desktop_2.3.3_amd64.deb](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/lobehub-desktop_2.3.3_amd64.deb) | 138.2 MiB | `runtime/deb/amd64` |
-| [lobehub-desktop_2.3.3_amd64.snap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.3/lobehub-desktop_2.3.3_amd64.snap) | 149.8 MiB | `other` |
+| [desktop-published.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/desktop-published.v1.json) | 492 B | `other` |
+| [desktop-sources.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/desktop-sources.v1.json) | 301 B | `other` |
+| [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/latest-linux.yml) | 10.2 KiB | `other` |
+| [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/latest-mac-arm64.yml) | 9.7 KiB | `other` |
+| [latest-mac-x64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/latest-mac-x64.yml) | 9.7 KiB | `other` |
+| [latest-mac.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/latest-mac.yml) | 10.3 KiB | `other` |
+| [latest.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/latest.yml) | 9.2 KiB | `other` |
+| [LobeHub-2.3.4-arm64-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-arm64-mac.zip) | 170.7 MiB | `other` |
+| [LobeHub-2.3.4-arm64-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-arm64-mac.zip.blockmap) | 184.1 KiB | `other` |
+| [LobeHub-2.3.4-arm64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-arm64.dmg) | 161.3 MiB | `other` |
+| [LobeHub-2.3.4-arm64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-arm64.dmg.blockmap) | 171.5 KiB | `other` |
+| [LobeHub-2.3.4-mac.zip](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-mac.zip) | 176.7 MiB | `other` |
+| [LobeHub-2.3.4-mac.zip.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-mac.zip.blockmap) | 190.2 KiB | `other` |
+| [LobeHub-2.3.4-setup.exe](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-setup.exe) | 150.1 MiB | `other` |
+| [LobeHub-2.3.4-setup.exe.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-setup.exe.blockmap) | 162.4 KiB | `other` |
+| [LobeHub-2.3.4-x64.dmg](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-x64.dmg) | 166.3 MiB | `other` |
+| [LobeHub-2.3.4-x64.dmg.blockmap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4-x64.dmg.blockmap) | 177.5 KiB | `other` |
+| [LobeHub-2.3.4.AppImage](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/LobeHub-2.3.4.AppImage) | 175.4 MiB | `other` |
+| [lobehub-desktop-2.3.4.tar.gz](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/lobehub-desktop-2.3.4.tar.gz) | 166.5 MiB | `native/unknown` |
+| [lobehub-desktop-2.3.4.x86_64.rpm](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/lobehub-desktop-2.3.4.x86_64.rpm) | 122.4 MiB | `runtime/rpm/x86_64` |
+| [lobehub-desktop_2.3.4_amd64.deb](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/lobehub-desktop_2.3.4_amd64.deb) | 139.8 MiB | `runtime/deb/amd64` |
+| [lobehub-desktop_2.3.4_amd64.snap](https://github.com/lobehub/lobe-chat/releases/download/v2.3.4/lobehub-desktop_2.3.4_amd64.snap) | 151.3 MiB | `other` |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for lobe-chat lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:12:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:50:20Z._
