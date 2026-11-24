@@ -14,14 +14,14 @@ x install lobe-chat
 
 ## 代码洞察
 
-合计: **4,148,749** 行代码（覆盖前 5 种语言、共 **25236** 个文件）。
+合计: **4,165,181** 行代码（覆盖前 5 种语言、共 **25352** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 2,529,321 | 302,505 | 363,059 | 18570 |
-| Json | 1,000,973 | 0 | 1 | 1420 |
-| Tsx | 525,509 | 32,564 | 59,814 | 5123 |
-| Yaml | 64,476 | 2,043 | 2,253 | 20 |
+| TypeScript | 2,541,597 | 304,287 | 364,837 | 18669 |
+| Json | 1,003,372 | 0 | 1 | 1420 |
+| Tsx | 527,140 | 32,797 | 59,996 | 5140 |
+| Yaml | 64,562 | 2,043 | 2,253 | 20 |
 | JavaScript | 11,356 | 624 | 1,206 | 103 |
 
 ## 源代码
@@ -32,33 +32,34 @@ x install lobe-chat
 
 ## 发布
 
-- **最新版本**: `v2.3.6-canary.1` (2026-11-22)
-- **最近提交**: 2026-11-23
-- **Release 含资产**: 21 个
+- **最新版本**: `v0.0.0-nightly.pr23784.41564` (2026-11-22)
+- **最近提交**: 2026-11-24
+- **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 86,027 · **Fork**: 16,352 · **开放 issue**: 6,708 · **贡献者**: 371
+- **Star**: 86,088 · **Fork**: 16,358 · **开放 issue**: 6,714 · **贡献者**: 371
 
 ## 累计统计
 
-- **发布数**: 3209 · **已合并 PR**: 11341 · **开放 PR**: 999 · **已关闭 issue**: 6241 · **开放 issue**: 467 · **提交数**: 16659
+- **发布数**: 3210 · **已合并 PR**: 11408 · **开放 PR**: 985 · **已关闭 issue**: 6249 · **开放 issue**: 465 · **提交数**: 16726
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 64 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 100 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 100 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 63 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 100 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [desktop-published.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.5/desktop-published.v1.json) | 492 B | `other` |
 | [desktop-sources.v1.json](https://github.com/lobehub/lobe-chat/releases/download/v2.3.5/desktop-sources.v1.json) | 394 B | `other` |
 | [latest-linux.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.5/latest-linux.yml) | 1.3 KiB | `other` |
 | [latest-mac-arm64.yml](https://github.com/lobehub/lobe-chat/releases/download/v2.3.5/latest-mac-arm64.yml) | 813 B | `other` |
@@ -90,4 +91,4 @@ lobe-chat 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T09:46:10Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:26:14Z._
