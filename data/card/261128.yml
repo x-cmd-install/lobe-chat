@@ -1,0 +1,199 @@
+about:
+  description: "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week."
+  license: NOASSERTION
+  homepage: https://lobehub.com
+  head: 4337583
+  archived: false
+  latestVersion: "v0.0.0-nightly.pr23994.42324"
+  latestRelease: "v2.3.6"
+  latestPrerelease: "v0.0.0-nightly.pr23994.42324"
+  collectedAt: 2026-11-28T08:15:48Z
+timeline:
+  created: 2023-05-21
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-28
+  lastRelease: 2026-11-24
+  lastPrerelease: 2026-11-28
+popularity:
+  star: 86219
+  watcher: 300
+  fork: 16361
+  release: 3224
+  contributor: 370
+  pullRequest: 14999
+  issue: 6718
+language:
+  TypeScript: 138902229
+  JavaScript: 1072422
+  Shell: 325886
+  HTML: 263289
+  PLpgSQL: 144875
+  Python: 61509
+  Objective-C++: 48288
+  Gherkin: 34981
+  CSS: 18945
+  Dockerfile: 14940
+  MDX: 11809
+  Jupyter Notebook: 6314
+  Roff: 5413
+  TeX: 1797
+  Jinja: 575
+totalBytes: 140913272
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 74
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 3224
+  mergedPR: 11570
+  openPR: 908
+  closedIssue: 6258
+  openIssue: 460
+  commit: 16903
+---
+path: /home/runner/.x-repo/github.com/lobehub/lobe-chat
+collectedAt: 2026-11-28T08:16:52Z
+loc:
+  TypeScript:
+    code: 2592668
+    comments: 310506
+    blanks: 370685
+    files: 19088
+  Json:
+    code: 1019959
+    comments: 0
+    blanks: 1
+    files: 1440
+  Tsx:
+    code: 530233
+    comments: 33264
+    blanks: 60303
+    files: 5147
+  Yaml:
+    code: 65164
+    comments: 2043
+    blanks: 2295
+    files: 20
+  JavaScript:
+    code: 11489
+    comments: 626
+    blanks: 1213
+    files: 106
+  Sql:
+    code: 8765
+    comments: 780
+    blanks: 120
+    files: 235
+  Html:
+    code: 3383
+    comments: 21
+    blanks: 224
+    files: 19
+  Toml:
+    code: 1317
+    comments: 85
+    blanks: 97
+    files: 42
+  Sh:
+    code: 1300
+    comments: 214
+    blanks: 154
+    files: 8
+  ObjectiveCpp:
+    code: 1015
+    comments: 29
+    blanks: 156
+    files: 3
+  Gherkin:
+    code: 726
+    comments: 84
+    blanks: 136
+    files: 19
+  Css:
+    code: 479
+    comments: 51
+    blanks: 94
+    files: 10
+  Dockerfile:
+    code: 237
+    comments: 108
+    blanks: 42
+    files: 2
+  Tex:
+    code: 70
+    comments: 0
+    blanks: 42
+    files: 1
+  Svg:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 2
+  Jupyter:
+    code: 4
+    comments: 2
+    blanks: 1
+    files: 4
+  Markdown:
+    code: 0
+    comments: 40752
+    blanks: 28593
+    files: 108
+  Text:
+    code: 0
+    comments: 835
+    blanks: 140
+    files: 7
+total:
+  code: 4241214
+  comments: 389662
+  blanks: 464596
+  files: 26261
+---
+
+---
